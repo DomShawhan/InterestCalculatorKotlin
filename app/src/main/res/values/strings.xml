@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interest Calculator</string>
+    <string name="loan_amount_label">Loan Amount</string>
+    <string name="interest_rate_label">Interest Rate</string>
+    <string name="loan_amount_output">Loan amount: %s</string>
+    <string name="interest_rate_output">Interest Rate: %s</string>
+    <string name="interest_amount_output">Interest: %s</string>
+</resources>
